@@ -325,6 +325,7 @@ body {
 
 #firstview {
   height: 100%;
+  height: calc(100vh - 70px);
   background: url(../img/eyecatch.jpg) no-repeat;
   background-size: cover;
   background-position: center;
